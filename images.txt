@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 cnk3x/xunlei
 tinymediamanager/tinymediamanager
+jellyfin/jellyfin
